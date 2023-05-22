@@ -4,8 +4,8 @@
 - Setup frontend
 - main.js contains visotrs counter code
 
-
+ 
 ## Stage 2
-
+ 
 <br>
 See [steps]()
